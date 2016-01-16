@@ -68,7 +68,7 @@ for i in final_emp_list:
     for j in  i.eProfileAttr:
           
         print vars(j)
-
+    # visualizing the objects in dictionary format.
     print vars(i)             
             
     
